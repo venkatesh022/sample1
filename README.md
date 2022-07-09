@@ -1,3 +1,2 @@
-rrr
-kgf
-svp
+dell,
+lenovo,
